@@ -1,0 +1,1 @@
+tar -zxvf jdk-8u121-linux-x64.tar.gz
